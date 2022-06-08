@@ -1,3 +1,5 @@
+### [Patika.dev LİNK](https://app.patika.dev/gezgo)
+
 # Merge  sort of [16,21,11,8,12,22] :
  
                  |16|21|11|-----|8|12|22|
