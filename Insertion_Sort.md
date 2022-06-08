@@ -1,3 +1,5 @@
+### [Patika.dev LİNK](https://app.patika.dev/gezgo)
+
 # [22,27,16,2,18,6] --> Insertion sort aşamaları :
 
 1. [22,27,16,2,18,6]
